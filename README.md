@@ -11,7 +11,7 @@
 <p>The dataset consists of aerial drone images with corresponding segmentation masks. Each image contains multiple classes representing different terrain features and objects visible from aerial perspectives.</p>
 
 <div align="center">
-  <img width="1350" alt="Screenshot 2025-06-28 at 1 22 55 AM" src="https://github.com/user-attachments/assets/babc24c5-2e99-4b9e-807f-17838af6568f" />
+  <img width="984" alt="image" src="https://github.com/user-attachments/assets/36575503-2d66-43f2-8e67-70b90b932251" />
   <p><em>Sample aerial drone images with corresponding segmentation masks showing different classes</em></p>
 </div>
 
@@ -31,14 +31,14 @@
 <h3>ResNet34 Backbone</h3>
 
 <div align="center">
-  <img src="path/to/resnet34_architecture.png" alt="ResNet34 Architecture" width="90%">
+  <img width="1350" alt="Screenshot 2025-06-28 at 1 22 55 AM" src="https://github.com/user-attachments/assets/babc24c5-2e99-4b9e-807f-17838af6568f" />
   <p><em>ResNet34 architecture used as the encoder backbone for feature extraction</em></p>
 </div>
 
 <h3>U-Net Architecture</h3>
 
 <div align="center">
-  <img src="path/to/unet_architecture.png" alt="U-Net Architecture" width="90%">
+  <img width="1673" alt="image" src="https://github.com/user-attachments/assets/935b0056-a4ff-49c1-8d96-284d1660f1fb" />
   <p><em>U-Net architecture diagram showing the encoder-decoder structure with skip connections</em></p>
 </div>
 
@@ -66,7 +66,7 @@
 <h3>Training Progress</h3>
 
 <div align="center">
-  <img src="path/to/image3.png" alt="Training History" width="70%">
+  <img width="565" alt="image" src="https://github.com/user-attachments/assets/6e2550b2-9a95-4b28-99d0-1205261f0750" />
   <p><em>Training and validation accuracy curves over 100 epochs</em></p>
 </div>
 
@@ -82,7 +82,7 @@
 <h3>Model Performance</h3>
 
 <div align="center">
-  <img src="path/to/image4.png" alt="Segmentation Results" width="90%">
+  <img width="1283" alt="image" src="https://github.com/user-attachments/assets/b983155e-fa1a-4533-8e2d-92f71ebb30b8" />
   <p><em>Test results showing: (Left) Original drone image, (Middle) Ground truth segmentation, (Right) Model prediction</em></p>
 </div>
 
