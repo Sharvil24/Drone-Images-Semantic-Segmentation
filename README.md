@@ -11,7 +11,7 @@
 <p>The dataset consists of aerial drone images with corresponding segmentation masks. Each image contains multiple classes representing different terrain features and objects visible from aerial perspectives.</p>
 
 <div align="center">
-  <img src="![resnet34](https://github.com/user-attachments/assets/3cddbae5-3b06-4bd4-9d3c-069d529f070b)" alt="Dataset Sample" width="80%">
+  <img width="1350" alt="Screenshot 2025-06-28 at 1 22 55 AM" src="https://github.com/user-attachments/assets/babc24c5-2e99-4b9e-807f-17838af6568f" />
   <p><em>Sample aerial drone images with corresponding segmentation masks showing different classes</em></p>
 </div>
 
