@@ -11,7 +11,7 @@
 <p>The dataset consists of aerial drone images with corresponding segmentation masks. Each image contains multiple classes representing different terrain features and objects visible from aerial perspectives.</p>
 
 <div align="center">
-  <img src="path/to/image1.png" alt="Dataset Sample" width="80%">
+  <img src="![resnet34](https://github.com/user-attachments/assets/3cddbae5-3b06-4bd4-9d3c-069d529f070b)" alt="Dataset Sample" width="80%">
   <p><em>Sample aerial drone images with corresponding segmentation masks showing different classes</em></p>
 </div>
 
@@ -28,8 +28,17 @@
   <li><strong>Output</strong>: 4x256x256 segmentation masks (4 classes)</li>
 </ul>
 
+<h3>ResNet34 Backbone</h3>
+
 <div align="center">
-  <img src="path/to/image2.png" alt="Model Architecture" width="90%">
+  <img src="path/to/resnet34_architecture.png" alt="ResNet34 Architecture" width="90%">
+  <p><em>ResNet34 architecture used as the encoder backbone for feature extraction</em></p>
+</div>
+
+<h3>U-Net Architecture</h3>
+
+<div align="center">
+  <img src="path/to/unet_architecture.png" alt="U-Net Architecture" width="90%">
   <p><em>U-Net architecture diagram showing the encoder-decoder structure with skip connections</em></p>
 </div>
 
